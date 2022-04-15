@@ -1,6 +1,6 @@
 # My Movie App
 
-My Movie is a simple App to explore and watch movie trailers according to categories.
+My Movie is a simple App to explore and watch movie trailer according to categories.
 <br/>
 
 ### Features
@@ -29,8 +29,7 @@ My Movie is a simple App to explore and watch movie trailers according to catego
  emissions in one object liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and
  every time onChanged callback is called for either of them, we set a new value in liveDataMerger.
 
- In our Sample code we used like we have added live data instances popularMoviesLiveData,searchMovieLiveData,currentMovieLiveData,topRateMovieLiveData,upcomingMovieLiveData as datasource in MediatorLiveData
- and we are observing it in ui if anything changes then update the ui or notify the ui about changes, so that is the use case where we can used MediatorLiveData.
+ In our Sample code we used like we have added live data instances popularMoviesLiveData, searchMovieLiveData, currentMovieLiveData, topRateMovieLiveData,  upcomingMovieLiveData as datasource in MediatorLiveData and we are observing it in ui if anything changes then update the ui or notify the ui about changes, so that is the use case where we can used MediatorLiveData.
 
  ### Navigation Component
  The Navigation component uses a navigation graph to manage your app's navigation. A navigation graph is a resource file
@@ -49,7 +48,7 @@ My Movie is a simple App to explore and watch movie trailers according to catego
  - Android Studio tooling for visualizing and editing the navigation flow of an app.
  - Provide visibility of working flow from source to destination.
 
- Note: You can get TMDB Api key through below link and their is also mention steps to get the Api key.
+ <b/>Note: You can get TMDB Api key through below link and their is also mention steps to get the Api key.
  https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Screenshots
