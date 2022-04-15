@@ -23,7 +23,7 @@ My Movie is a simple App to explore and watch movie trailers according to catego
 
  Let’s get understand.
 
- ### Why we use MediatorLiveData
+ ### Why we use MediatorLiveData?
  MediatorLiveData can observe other LiveData objects such as sources and react to their onChange() events.
  let's discussed with scenario, we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their
  emissions in one object liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and
