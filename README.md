@@ -37,11 +37,11 @@ My Movie is a simple App to explore and watch movie trailers according to catego
  that contains all of your app's destinations along with the logical connections, or actions, that users can take to navigate
  from one destination to another. You can manage your app's navigation graph using the Navigation Editor in Android Studio.
 
- How to pass arguments?
+ ### How to pass arguments?
  If you want to send data from one fragment to another fragment so you can achieve through 'safe args' and by using that you can send data as well 
  as send object between the fragment.
 
- Advantages of Navigation Component:
+ ### Advantages of Navigation Component:
  - Automatic handling of fragment transactions.
  - Correctly handling up to and back by default.
  - Default behaviours for animations and transitions.
@@ -49,7 +49,7 @@ My Movie is a simple App to explore and watch movie trailers according to catego
  - Android Studio tooling for visualizing and editing the navigation flow of an app.
  - Provide visibility of working flow from source to destination.
 
- Note: You can get TMDB Api key through below link and their is also mention steps to get the APi key.
+ Note: You can get TMDB Api key through below link and their is also mention steps to get the Api key.
  https://developers.themoviedb.org/3/getting-started/introduction
 
 ## Screenshots
