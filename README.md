@@ -51,8 +51,7 @@ My Movie is a simple App to explore and watch movie trailer according to categor
  ### Callback flow:
  A common use case in project is to stream data from a callback-based API. With callbackFlow we can convert any callback-based API into flows.
 
- Say for our use case, we want to get network connectivity and handle it's listener through callback flow and also register & unregister network callback inside as well and collect it in UI(Activity or Fragment).
- and the same scenario we have used for TextWatcher as well.
+ Say for our use case, we want to get network connectivity and handle it's listener through callback flow and also register & unregister network callback inside as  well and collect it in UI(Activity or Fragment) and the same scenario we have used for TextWatcher as well.
 
  <b/>Note: You can get TMDB Api key through below link and their is also mention steps to get the Api key.
  https://developers.themoviedb.org/3/getting-started/introduction
