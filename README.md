@@ -31,7 +31,7 @@ My Movie is a simple App to explore and watch movie trailer according to categor
 
  In our Sample code we used like we have added live data instances popularMoviesLiveData, searchMovieLiveData, currentMovieLiveData, topRateMovieLiveData,  upcomingMovieLiveData as datasource in MediatorLiveData and we are observing it in ui if anything changes then update the ui or notify the ui about changes, so that is the use case where we can used MediatorLiveData.
 
- ### Navigation Component
+ ### Navigation Component:
  The Navigation component uses a navigation graph to manage your app's navigation. A navigation graph is a resource file
  that contains all of your app's destinations along with the logical connections, or actions, that users can take to navigate
  from one destination to another. You can manage your app's navigation graph using the Navigation Editor in Android Studio.
